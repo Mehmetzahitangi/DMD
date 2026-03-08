@@ -1,6 +1,6 @@
 # ✈️ Dynamic Mode Decomposition (DMD)
 
-Bu repo, otonom sistemler ve veri güdümlü kontrol (Data-Driven Control) alanında kullanılan **Dinamik Mod Ayrışımı (DMD)** algoritmalarının kapsamlı Python implementasyonlarını içermektedir. 
+Bu repo, otonom sistemler ve veri güdümlü kontrol (Data-Driven Control) alanında kullanılan **Dinamik Mod Ayrışımı (DMD)** algoritmalarının Python implementasyonlarını içermektedir. 
 
 Kodlar, J. Nathan Kutz ve ekibinin *"Dynamic Mode Decomposition: Data-Driven Modeling of Complex Systems (2016)"* kitabındaki teorik temeller üzerine inşa edilmiştir. Bu çalışmalar, özellikle Derin Pekiştirmeli Öğrenme (Deep RL) ajanlarının doğrusal olmayan aerodinamik ortamları algılaması, rüzgar gürültüsünü filtrelemesi ve donanım limitlerini aşması için optimize edilmiştir.
 
